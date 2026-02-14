@@ -6,7 +6,7 @@ Made with ❤️ by **Nityam Mishra**
 
 ---
 
-## ⚡ Quick Start
+## ⚡ Quick Start (Local Host)
 
 ```bash
 # 1. Install dependencies
@@ -18,7 +18,7 @@ python app.py
 # 3. Open the frontend
 # Double-click index.html or open it in your browser
 ```
-
+It takes few seconds for loading the local host Link, wait for a message "Debugger is LIVE" <br>
 **That's it! You're ready to go!** 🎉
 
 ---
@@ -39,13 +39,7 @@ python app.py
 - **Environmental Analysis**: Optimal conditions check
 - **Category Badge**: Color-coded (High/Medium/Low)
 
-### 📱 **Responsive Design**
-- Works on desktop computers
-- Works on tablets
-- Works on mobile phones
-- Adaptive layout
 
----
 
 ## 📊 How It Works
 
@@ -54,10 +48,9 @@ python app.py
 3. **Hybrid Validation**: Combines AI prediction with rule-based checks
 4. **Results**: Shows yield category (High/Medium/Low) with confidence
 
----
+
 
 ## 📚 Technical Details
-
 ### Backend (Flask)
 - **Framework**: Flask with CORS enabled
 - **ML Library**: scikit-learn (MLPClassifier)
@@ -76,14 +69,14 @@ python app.py
 ### Crops Supported
 Rice, Wheat, Sugarcane, Cotton, Maize, Jowar, Bajra, Ragi, Groundnut, Soyabean, Sunflower, Potato, Onion, Tomato, Apple, Banana, Mango, Tea, Tobacco, Coffee, Carrot, Grapes, Orange
 
----
 
-## 🚀 Deployment Options
-- Deploy Flask to Heroku/PythonAnywhere/Railway
-- Update API endpoint in `index.html`
-- Host HTML on GitHub Pages/Netlify/Vercel
+###  Responsive Design
+- Works on desktop computers
+- Works on tablets
+- Works on mobile phones
+- Adaptive layout
 
----
+
 
 ## 📝 License
 
@@ -93,7 +86,6 @@ This project is created for educational purposes.
 Powered by Neural Networks
 Smart Agriculture for a Better Future
 
----
 
 ## 🎯 Next Steps
 
@@ -107,4 +99,4 @@ Want to enhance this project? Ideas:
 
 ---
 
-**Enjoy your awesome crop yield predictor!**
+# Coding Today! Engineering Tomorrow!
