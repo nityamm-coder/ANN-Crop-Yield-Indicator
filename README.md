@@ -21,7 +21,8 @@ python app.py
 It takes few seconds for loading the local host Link, wait for a message "Debugger is LIVE" <br>
 **That's it! You're ready to go!** 🎉
 <br>
-## Link (deployed): https://nmishra21.pythonanywhere.com/ <br> This is previous version one, for newer version go for Local Host
+## Link (deployed): https://nmishra21.pythonanywhere.com/ <br> 
+This is previous version one, for newer version go for Local Host <br>
 
 
 
